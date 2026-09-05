@@ -1,0 +1,8 @@
+{
+  "name": "Kauan Divino Portfolio",
+  "description": "Professional portfolio of Kauan Divino, an AI specialist and researcher.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
